@@ -23,7 +23,7 @@ def kelvin_to_fahrenheit(k):
 
 def show_menu():
     print("\n" + "=" * 55)
-    print("            \t\t🌡️   TEMPERATURE CALCULATOR  ⁠🌡️")
+    print("           🌡️   TEMPERATURE CALCULATOR  ⁠🌡️")
     print("=" * 55)
     print("1. Celsius ➜ Fahrenheit")
     print("2. Celsius ➜ Kelvin")
