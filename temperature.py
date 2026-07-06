@@ -1,5 +1,5 @@
 """
-Module Name: Temperature
+Module Name: temperature
 Author: Uday Sharma
 """
 
