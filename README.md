@@ -125,23 +125,4 @@ This project demonstrates the use of:
 GitHub: https://github.com/your-uday7219
 
 ---
-## Sample Output
 
-```
-=======================================================
-          🌡️ TEMPERATURE CALCULATOR 🌡️
-=======================================================
-1. Celsius ➜ Fahrenheit
-2. Celsius ➜ Kelvin
-3. Fahrenheit ➜ Celsius
-4. Fahrenheit ➜ Kelvin
-5. Kelvin ➜ Celsius
-6. Kelvin ➜ Fahrenheit
-7. Exit
-=======================================================
-
-Enter your choice: 1
-Enter Temperature: 25
-
-Result: 77.00 °F
-```
