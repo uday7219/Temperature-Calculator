@@ -34,7 +34,7 @@ Temperature-Calculator/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-uday7219/Temperature-Calculator.git
+git clone https://github.com/uday7219/Temperature-Calculator.git
 ```
 
 ### Navigate to the project folder
